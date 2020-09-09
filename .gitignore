@@ -2,3 +2,4 @@
 /input
 kernel-metadata.json
 *.csv
+/.idea/
